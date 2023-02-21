@@ -1243,6 +1243,11 @@ input[type="radio"] + label:before {
     width: 100%; }
     .image.main img {
       width: 100%; }
+    
+    .image.left #profile-img{
+      width: 500px;
+    }
+
 
 a.image {
   overflow: hidden; }
