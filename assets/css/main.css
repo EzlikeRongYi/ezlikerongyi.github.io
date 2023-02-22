@@ -1252,6 +1252,9 @@ input[type="radio"] + label:before {
       width: 400px;
     }
 
+    .image.left #language-ss{
+      height: 350px;
+    }
 
 a.image {
   overflow: hidden; }
