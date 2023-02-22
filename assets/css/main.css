@@ -1245,7 +1245,11 @@ input[type="radio"] + label:before {
       width: 100%; }
     
     .image.left #profile-img{
-      width: 500px;
+      width: 550px;
+    }
+
+    .image.right #collage-img{
+      width: 400px;
     }
 
 
